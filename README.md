@@ -1,1 +1,1 @@
-# WebMaster_Week1_Task2
+# Image-Gallery
